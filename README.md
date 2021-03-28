@@ -2,7 +2,7 @@
 
 <h1 style="display: flex; flex-direction: row; ">
   <img alt="YOOHOO" style="display: inline" src="https://user-images.githubusercontent.com/35203441/112743679-64c57e00-8f67-11eb-82e1-4aa324f83b6a.png" height="70"/>
-  Welcome to my Github!
+  Welcome To My Github!
   <!--TOM HERE!-->
 </h1>
 
