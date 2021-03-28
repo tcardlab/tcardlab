@@ -7,7 +7,7 @@
 </h1>
 
 I'm a software developer who specializes in PWAs, Electron, and Vue. 
-However, I have recently been focusing on developing my full-stack capabilities (Node, express, socket.io, mongoDB, etc.).
+However, I have recently been focusing on developing my full-stack capabilities ( Node, express, socket.io, mongoDB, etc ).
 My hope is to utilize these skills to reduce barriers to opensource collaboration.
   
 ## Currently Working On
