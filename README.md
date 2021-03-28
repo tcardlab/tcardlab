@@ -19,18 +19,19 @@ Toaster strudels taste better with Nutella
 -->
 
 <details style="display: flex; flex-direction: row;">
-  <summary><h2 style="display: inline">CodePens</h2></summary>
+  <summary><h2 style="display: inline">CodePens (click me!)</h2></summary>
 
 
 <table><tr><td valign="top" width="33%">
-<a title="Stack Overflow" href="">
+<a title="Vue Drag Select" href="https://codepen.io/tcardlab/full/NWRrOOp">
   <img src="https://user-images.githubusercontent.com/35203441/112747228-f9d57080-8f81-11eb-9566-5faf4d7a1223.gif"/>
 </a>
-<a title="Stack Overflow" href="">
+<a title="A MC Login Page" href="https://codepen.io/tcardlab/full/gOpZejv">
+  <!-- yea, i know its way too busy -->
   <img src="https://user-images.githubusercontent.com/35203441/112747253-17a2d580-8f82-11eb-8bdf-2bb9058ea554.gif"/>
 </a>
 <br><br>
-<a title="Stack Overflow" href="https://codepen.io/tcardlab/full/oNzbGrz">
+<a title="CSS Grid Keyboard" href="https://codepen.io/tcardlab/full/oNzbGrz">
   <img src="https://user-images.githubusercontent.com/35203441/112745490-d953e900-8f76-11eb-980f-f68df5c39268.png"/>
 </a>
   
@@ -38,27 +39,27 @@ Toaster strudels taste better with Nutella
 </td><td valign="top" width="34%">
   
   
-<a title="Stack Overflow" href="">
+<a title="Heatmap Overlay" href="https://codepen.io/tcardlab/full/OJVBmLW">
   <img src="https://user-images.githubusercontent.com/35203441/112747969-d82ab800-8f86-11eb-83a1-fa7b4997863d.gif"/>
 </a>
-<a title="Stack Overflow" href="">
+<a title="Wifi Pickaxe" href="https://codepen.io/tcardlab/full/qBOWPZW">
   <img src="https://user-images.githubusercontent.com/35203441/112747236-02c64200-8f82-11eb-8aeb-d2e28cb35181.gif"/>
 </a>
-<a title="Stack Overflow" href="">
+<a title="Chess Board" href="https://codepen.io/tcardlab/full/KKMzOax">
   <img src="https://user-images.githubusercontent.com/35203441/112747974-dd880280-8f86-11eb-9a3b-f1ad33881d24.gif"/>
 </a>
 
 
 </td><td valign="top" width="33%">
 
-<a title="Stack Overflow" href="">
+<a title="Tab-able Modal" href="https://codepen.io/tcardlab/full/dyMJOvy">
   <img src="https://user-images.githubusercontent.com/35203441/112747233-0063e800-8f82-11eb-8768-e0b555ffd4c6.gif"/>
 </a>
-<a title="Stack Overflow" href="">
+<a title="Live GSAP animator" href="https://codepen.io/tcardlab/full/gOwYXYO">
   <img src="https://user-images.githubusercontent.com/35203441/112747241-05289c00-8f82-11eb-8ec3-4e14694980fc.gif"/>
 </a>
 <br><br><br>
-<a title="Stack Overflow" href="https://codepen.io/tcardlab/pen/qBdppgK?editors=0010">
+<a title="Recursive Vue Components" href="https://codepen.io/tcardlab/full/qBdppgK">
   <img src="https://user-images.githubusercontent.com/35203441/112745500-e7096e80-8f76-11eb-90fc-fa1bdeb5ddec.png"/>
 </a>
 
